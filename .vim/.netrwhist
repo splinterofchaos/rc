@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/boot/grub'
+let g:netrw_dirhist_2='/home/soc/programming/c++/workspace/math'
+let g:netrw_dirhist_3='/home/scott/.wine'
+let g:netrw_dirhist_4='/var/log/portage/elog'
+let g:netrw_dirhist_5='/var/spool/mail'
+let g:netrw_dirhist_6='/home/scott/.zsh'
+let g:netrw_dirhist_7='/mnt/un/Users/scott/programming/c++/workspace'
+let g:netrw_dirhist_8='/mnt/un/Users/scott/programming/c++/libs'
