@@ -164,8 +164,7 @@ alias make="make -j8"
 # Gentoo seems to need run to be executed in its own FS, 
 # so copy it there, but clean up afterwords.
 mr() {
-    make "$@" && cp run ~/run 
-    ~/run && rm ~/run
+    make "$@" && cp run ~/run && ~/run && rm ~/run
 }
 
 # Clean up what mr creates.
