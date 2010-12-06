@@ -172,8 +172,9 @@ mc() {
     rm ~/run ./run
 }
 
-# PROMPTS
-source ~/.zsh/functions/prompt.zsh
+# SOURCES
+source ~/.shell/zsh/prompt.zsh
+source ~/.shell/cgroups
 
 # HISTORY
 HISTFILE=$HOME/.zhistory
