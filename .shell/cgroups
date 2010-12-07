@@ -2,8 +2,15 @@
 # File from
 # http://en.gentoo-wiki.com/wiki/Improve_responsiveness_with_cgroups#Use_cgroups_automatically
 
+# Turn on cgroups
 if [ "$PS1" ] ; then
-   mkdir -p -m 0700 /dev/cgroup/user/$$ > /dev/null 2>&1
-   /bin/echo $$ > /dev/cgroup/user/$$/tasks
-   /bin/echo '1' > /dev/cgroup/user/$$/notify_on_release
+    if [ -d /sys/fs/cgroup ] ; then
+        cdir=/sys/fs/cgroup
+    else
+        cdir=/dev/cgroup
+    fi
+
+    mkdir -p -m 0700 $cdir/user/$$ > /dev/null 2>&1
+    /bin/echo $$  >  $cdir/user/$$/tasks
+    /bin/echo '1' >  $cdir/user/$$/notify_on_release
 fi
