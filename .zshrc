@@ -212,11 +212,16 @@ alias -s html=chromium
 alias -s com=chromium
 
 # Go setup
-export GOROOT=$HOME/go/src
+export GOROOT=$HOME/go
 export GOARCH=386
 export GOOS=linux
 export GOBIN=$HOME/go/bin
 PATH+=:${GOBIN}
+
+gmr() {
+    gomake "$@" && cp run ~/run && ~/run && rm ~/run
+}
+
 # Enable automatic rehash of commands
 _force_rehash() {
   (( CURRENT == 1 )) && rehash
