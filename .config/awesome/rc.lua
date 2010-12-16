@@ -7,6 +7,8 @@ require("beautiful")
 -- Notification library
 require("naughty")
 
+require("vicious")
+
 -- {{{ Variable definitions
 -- Themes define colours, icons, and wallpapers
 beautiful.init("/usr/share/awesome/themes/default/theme.lua")
@@ -74,8 +76,13 @@ mylauncher = awful.widget.launcher({ image = image(beautiful.awesome_icon),
 
 -- {{{ Wibox
 
--- Create a textclock widget
-mytextclock = awful.widget.textclock({ align = "right" })
+-- CPU usage.
+cpuwidget = widget({ type = "textbox" })
+vicious.register(cpuwidget, vicious.widgets.cpu, "CPU $2% $3% $4% $5% $6% $7% ")
+
+-- Date and time.
+datewidget = widget({ type = "textbox" })
+vicious.register(datewidget, vicious.widgets.date, "[%b %d, %r]", 60)
 
 -- Create a systray
 mysystray = widget({ type = "systray" })
@@ -149,7 +156,8 @@ for s = 1, screen.count() do
             layout = awful.widget.layout.horizontal.leftright
         },
         mylayoutbox[s],
-        mytextclock,
+        datewidget,
+        cpuwidget,
         s == 1 and mysystray or nil,
         mytasklist[s],
         layout = awful.widget.layout.horizontal.rightleft
