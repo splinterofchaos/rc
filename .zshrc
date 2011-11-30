@@ -206,7 +206,7 @@ fi
 # MISC
 setopt always_last_prompt
 
-alias ls="ls --color --group-directories-first"
+alias ls="ls -FG"
 alias -s html=chromium
 alias -s com=chromium
 
@@ -222,3 +222,4 @@ _force_rehash() {
   return 1   # Because we didn't really complete anything
 }
 zstyle ':completion:*' completer _oldlist _expand _force_rehash _complete 
+export PATH=/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin
