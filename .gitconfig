@@ -1,0 +1,30 @@
+[user]
+	name = Scott Prager
+	email = splinterofchaos@gmail.com
+    editor = vim
+[alias]
+    lg = log --decorate
+	l  = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative --graph
+	rl = reflog  --abbrev-commit --date=relative --color
+    recent = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative --graph -n 3
+    wassup = show-branch
+
+    d = diff --color-words
+
+    b = branch
+    f = fetch
+    co = checkout
+
+    ci  = commit --signoff --all
+    cia = commit --amend --all         # A fix in the commit message.
+    fix = commit --amend --all -C HEAD # A fix in the source only.
+
+    cp = cherry-pick
+    com = checkout master
+[color]
+	ui = always
+
+[pack]
+    threads = 7
+[diff]
+	renames = 1

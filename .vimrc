@@ -3,7 +3,7 @@ set nocompatible
 filetype plugin indent on
 
 syntax on
-color darkblue
+set background=dark
 
 " RANDOM SETTINGS "
 set formatoptions=croq
@@ -57,9 +57,8 @@ set laststatus=2 " Enables the status line at the bottom of Vim
 
 set backspace=2 " make backspace work like most other apps
 
-" Make status line show (f) filename,  (l) line, (c) character, and the
-" GitBranch.
-set statusline=%<%f\ %h%m%r%=%-14.(%l,%c%)\ %{GitBranch()}
+" Make status line show (f) filename,  (l) line, (c) character.
+set statusline=%<%f\ %h%m%r%=%-14.(%l,%c%)
 
 " For spell checking. 
 " s â    move to the next mispelled word
@@ -68,3 +67,4 @@ set statusline=%<%f\ %h%m%r%=%-14.(%l,%c%)\ %{GitBranch()}
 " zug â  undo the addition of a word to the dictionary
 " z= â   view spelling suggestions for a mispelled word
 setlocal spell spelllang=en
+set mouse=a
