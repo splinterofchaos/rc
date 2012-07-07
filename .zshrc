@@ -222,3 +222,4 @@ _force_rehash() {
   return 1   # Because we didn't really complete anything
 }
 zstyle ':completion:*' completer _oldlist _expand _force_rehash _complete 
+alias tmux=tmux -2
