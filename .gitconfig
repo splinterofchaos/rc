@@ -28,3 +28,5 @@
     threads = 7
 [diff]
 	renames = 1
+[core]
+	excludesfile = /home/soc/.gitignore_global
