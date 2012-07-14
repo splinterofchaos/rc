@@ -68,3 +68,8 @@ set statusline=%<%f\ %h%m%r%=%-14.(%l,%c%)
 " z= â   view spelling suggestions for a mispelled word
 setlocal spell spelllang=en
 set mouse=a
+
+function Kernel()
+    set tabstop=8 softtabstop=8 shiftwidth=8 noexpandtab
+endfunction
+
