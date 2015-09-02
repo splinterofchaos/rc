@@ -1,0 +1,2282 @@
+
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim)
+chdir(/home/admin/.vim/my-plugs)
+could not source "$VIM/nvimrc"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "$HOME/.nvimrc"
+Searching for "plugin/python_setup.vim" in "/home/admin/.nvim,/usr/local/share/nvim/vimfiles,/usr/local/share/nvim/runtime,/usr/local/share/nvim/vimfiles/after,/home/admin/.nvim/after"
+Searching for "/home/admin/.nvim/plugin/python_setup.vim"
+Searching for "/usr/local/share/nvim/vimfiles/plugin/python_setup.vim"
+Searching for "/usr/local/share/nvim/runtime/plugin/python_setup.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+line 6: sourcing "/usr/local/share/nvim/runtime/plugin/python_setup.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/python_setup.vim
+continuing in /home/admin/.nvimrc
+Searching for "/usr/local/share/nvim/vimfiles/after/plugin/python_setup.vim"
+Searching for "/home/admin/.nvim/after/plugin/python_setup.vim"
+Searching for "autoload/pathogen.vim" in "/home/admin/.nvim,/usr/local/share/nvim/vimfiles,/usr/local/share/nvim/runtime,/usr/local/share/nvim/vimfiles/after,/home/admin/.nvim/after"
+Searching for "/home/admin/.nvim/autoload/pathogen.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/autoload)
+chdir(/home/admin/.vim/my-plugs)
+line 9: sourcing "/home/admin/.nvim/autoload/pathogen.vim"
+finished sourcing /home/admin/.nvim/autoload/pathogen.vim
+continuing in /home/admin/.nvimrc
+Searching for "autoload/plug.vim" in "/home/admin/.nvim,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bundle/vim-niji,/home/admin/.nvim/bundle/vim-over,/home/admin/.nvim/bundle/vim-plug,/home/admin/.nvim/bundle/vim-search-pulse,/home/admin/.nvim/bundle/vim-syntax-extra,/usr/local/share/nvim/vimfiles,/usr/local/share/nvim/runtime,/usr/local/share/nvim/vimfiles/after,/home/admin/.nvim/bundle/vim-syntax-extra/after,/home/admin/.nvim/bundle/haskellConceal/after,/home/admin/.nvim/after"
+Searching for "/home/admin/.nvim/autoload/plug.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/autoload)
+chdir(/home/admin/.vim/my-plugs)
+line 11: sourcing "/home/admin/.nvim/autoload/plug.vim"
+finished sourcing /home/admin/.nvim/autoload/plug.vim
+continuing in /home/admin/.nvimrc
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/my-plugs)
+chdir(/home/admin/.vim/my-plugs)
+line 31: sourcing "/home/admin/.nvim/my-plugs/proc.vim"
+finished sourcing /home/admin/.nvim/my-plugs/proc.vim
+continuing in /home/admin/.nvimrc
+Searching for "ftoff.vim" in "/home/admin/.nvim,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bundle/vim-niji,/home/admin/.nvim/bundle/vim-over,/home/admin/.nvim/bundle/vim-plug,/home/admin/.nvim/bundle/vim-search-pulse,/home/admin/.nvim/bundle/vim-syntax-extra,/usr/local/share/nvim/vimfiles,/usr/local/share/nvim/runtime,/usr/local/share/nvim/vimfiles/after,/home/admin/.nvim/bundle/vim-syntax-extra/after,/home/admin/.nvim/bundle/haskellConceal/after,/home/admin/.nvim/after"
+Searching for "/home/admin/.nvim/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/search/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/ftoff.vim"
+Searching for "/usr/local/share/nvim/vimfiles/ftoff.vim"
+Searching for "/usr/local/share/nvim/runtime/ftoff.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime)
+chdir(/home/admin/.vim/my-plugs)
+line 13: sourcing "/usr/local/share/nvim/runtime/ftoff.vim"
+Error detected while processing /usr/local/share/nvim/runtime/ftoff.vim:
+line   11:
+E216: No such group or event: filetypedetect *
+finished sourcing /usr/local/share/nvim/runtime/ftoff.vim
+continuing in function plug#end
+Searching for "/usr/local/share/nvim/vimfiles/after/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/ftoff.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/ftoff.vim"
+Searching for "/home/admin/.nvim/after/ftoff.vim"
+Searching for "filetype.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bund
+Searching for "/home/admin/.nvim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/filetype.vim"
+Searching for "/home/admin/.fzf/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/filetype.vim"
+Searching for "/home/admin/.vim/plugged/ag/filetype.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/filetype.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/filetype.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/search/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/filetype.vim"
+Searching for "/usr/local/share/nvim/vimfiles/filetype.vim"
+Searching for "/usr/local/share/nvim/runtime/filetype.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime)
+chdir(/home/admin/.vim/my-plugs)
+line 62: sourcing "/usr/local/share/nvim/runtime/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bu
+Searching for "/home/admin/.nvim/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/ftdetect/*.vim"
+Searching for "/home/admin/.fzf/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/ag/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/ftdetect/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-git/ftdetect)
+chdir(/home/admin/.vim/my-plugs)
+line 2700: sourcing "/home/admin/.vim/plugged/vim-git/ftdetect/git.vim"
+finished sourcing /home/admin/.vim/plugged/vim-git/ftdetect/git.vim
+continuing in /usr/local/share/nvim/runtime/filetype.vim
+Searching for "/home/admin/.vim/plugged/vim-extradite/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/ftdetect/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/moonscript-vim/ftdetect)
+chdir(/home/admin/.vim/my-plugs)
+line 2700: sourcing "/home/admin/.nvim/bundle/moonscript-vim/ftdetect/moon.vim"
+finished sourcing /home/admin/.nvim/bundle/moonscript-vim/ftdetect/moon.vim
+continuing in /usr/local/share/nvim/runtime/filetype.vim
+Searching for "/home/admin/.nvim/bundle/search/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/ftdetect/*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/local/share/nvim/runtime/ftdetect/*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/ftdetect/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/ftdetect/*.vim"
+Searching for "/home/admin/.nvim/after/ftdetect/*.vim"
+finished sourcing /usr/local/share/nvim/runtime/filetype.vim
+continuing in function plug#end
+Searching for "/usr/local/share/nvim/vimfiles/after/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/filetype.vim"
+Searching for "/home/admin/.nvim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bund
+Searching for "/home/admin/.nvim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/ftplugin.vim"
+Searching for "/home/admin/.fzf/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/ag/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/search/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/ftplugin.vim"
+Searching for "/usr/local/share/nvim/vimfiles/ftplugin.vim"
+Searching for "/usr/local/share/nvim/runtime/ftplugin.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime)
+chdir(/home/admin/.vim/my-plugs)
+line 62: sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+continuing in function plug#end
+Searching for "/usr/local/share/nvim/vimfiles/after/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/ftplugin.vim"
+Searching for "/home/admin/.nvim/after/ftplugin.vim"
+Searching for "indent.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bundle
+Searching for "/home/admin/.nvim/indent.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/indent.vim"
+Searching for "/home/admin/.fzf/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/indent.vim"
+Searching for "/home/admin/.vim/plugged/ag/indent.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/indent.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/indent.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/indent.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/indent.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/indent.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/indent.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/indent.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/indent.vim"
+Searching for "/home/admin/.nvim/bundle/search/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/indent.vim"
+Searching for "/usr/local/share/nvim/vimfiles/indent.vim"
+Searching for "/usr/local/share/nvim/runtime/indent.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime)
+chdir(/home/admin/.vim/my-plugs)
+line 62: sourcing "/usr/local/share/nvim/runtime/indent.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent.vim
+continuing in function plug#end
+Searching for "/usr/local/share/nvim/vimfiles/after/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/indent.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/indent.vim"
+Searching for "/home/admin/.nvim/after/indent.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 64: sourcing "/usr/local/share/nvim/runtime/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvi
+Searching for "/home/admin/.nvim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/synload.vim"
+Searching for "/home/admin/.fzf/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/synload.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/synload.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/synload.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 19: sourcing "/usr/local/share/nvim/runtime/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 21: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /usr/local/share/nvim/runtime/syntax/synload.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /usr/local/share/nvim/runtime/syntax/syntax.vim
+continuing in function plug#end
+Searching for "filetype.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bund
+Searching for "/home/admin/.nvim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/filetype.vim"
+Searching for "/home/admin/.fzf/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/filetype.vim"
+Searching for "/home/admin/.vim/plugged/ag/filetype.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/filetype.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/filetype.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/filetype.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/search/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/filetype.vim"
+Searching for "/usr/local/share/nvim/vimfiles/filetype.vim"
+Searching for "/usr/local/share/nvim/runtime/filetype.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime)
+chdir(/home/admin/.vim/my-plugs)
+line 36: sourcing "/usr/local/share/nvim/runtime/filetype.vim"
+finished sourcing /usr/local/share/nvim/runtime/filetype.vim
+continuing in /home/admin/.nvimrc
+Searching for "/usr/local/share/nvim/vimfiles/after/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/filetype.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/filetype.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/filetype.vim"
+Searching for "/home/admin/.nvim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bund
+Searching for "/home/admin/.nvim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/ftplugin.vim"
+Searching for "/home/admin/.fzf/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/ag/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/search/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/ftplugin.vim"
+Searching for "/usr/local/share/nvim/vimfiles/ftplugin.vim"
+Searching for "/usr/local/share/nvim/runtime/ftplugin.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime)
+chdir(/home/admin/.vim/my-plugs)
+line 36: sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+continuing in /home/admin/.nvimrc
+Searching for "/usr/local/share/nvim/vimfiles/after/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/ftplugin.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/ftplugin.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/ftplugin.vim"
+Searching for "/home/admin/.nvim/after/ftplugin.vim"
+Searching for "indent.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bundle
+Searching for "/home/admin/.nvim/indent.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/indent.vim"
+Searching for "/home/admin/.fzf/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/indent.vim"
+Searching for "/home/admin/.vim/plugged/ag/indent.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/indent.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/indent.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/indent.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/indent.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/indent.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/indent.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/indent.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/indent.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/indent.vim"
+Searching for "/home/admin/.nvim/bundle/search/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/indent.vim"
+Searching for "/usr/local/share/nvim/vimfiles/indent.vim"
+Searching for "/usr/local/share/nvim/runtime/indent.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime)
+chdir(/home/admin/.vim/my-plugs)
+line 36: sourcing "/usr/local/share/nvim/runtime/indent.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent.vim
+continuing in /home/admin/.nvimrc
+Searching for "/usr/local/share/nvim/vimfiles/after/indent.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/indent.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/indent.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/indent.vim"
+Searching for "/home/admin/.nvim/after/indent.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 38: sourcing "/usr/local/share/nvim/runtime/syntax/syntax.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 15: sourcing "/usr/local/share/nvim/runtime/syntax/nosyntax.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/nosyntax.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+Searching for "syntax/synload.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvi
+Searching for "/home/admin/.nvim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/synload.vim"
+Searching for "/home/admin/.fzf/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/synload.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/synload.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/synload.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/synload.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/synload.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 19: sourcing "/usr/local/share/nvim/runtime/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 21: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /usr/local/share/nvim/runtime/syntax/synload.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /usr/local/share/nvim/runtime/syntax/syntax.vim
+continuing in /home/admin/.nvimrc
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 39: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/admin/.nvimrc
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+Searching for "colors/hybrid.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim
+Searching for "/home/admin/.nvim/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/colors/hybrid.vim"
+Searching for "/home/admin/.fzf/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/ag/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/colors/hybrid.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/colors/hybrid.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/colors/hybrid.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/colorschemes/colors)
+chdir(/home/admin/.vim/my-plugs)
+line 45: sourcing "/home/admin/.nvim/bundle/colorschemes/colors/hybrid.vim"
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 67: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/admin/.vim/bundle/colorschemes/colors/hybrid.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 68: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/admin/.vim/bundle/colorschemes/colors/hybrid.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 71: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/admin/.vim/bundle/colorschemes/colors/hybrid.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+finished sourcing /home/admin/.nvim/bundle/colorschemes/colors/hybrid.vim
+continuing in /home/admin/.nvimrc
+Searching for "spell/en.utf-8.spl" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvi
+Searching for "/home/admin/.nvim/spell/en.utf-8.spl"
+Reading spell file "/home/admin/.nvim/spell/en.utf-8.spl"
+Searching for "spell/en.utf-8.add.spl" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/
+Searching for "/home/admin/.nvim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.fzf/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/ag/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/gprof.vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-git/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-extradite/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-surround/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-airline/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/gist-vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/webapi-vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/colorschemes/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/inkpot/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/search/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-misc/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-niji/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-over/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-plug/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/spell/en.utf-8.add.spl"
+Searching for "/usr/local/share/nvim/vimfiles/spell/en.utf-8.add.spl"
+Searching for "/usr/local/share/nvim/runtime/spell/en.utf-8.add.spl"
+Searching for "/usr/local/share/nvim/vimfiles/after/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/spell/en.utf-8.add.spl"
+Searching for "/home/admin/.nvim/after/spell/en.utf-8.add.spl"
+not found in 'runtimepath': "spell/en.utf-8.add.spl"
+Searching for "spell/en.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bund
+Searching for "/home/admin/.nvim/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/spell/en.vim"
+Searching for "/home/admin/.fzf/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/ag/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/search/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/spell/en.vim"
+Searching for "/usr/local/share/nvim/vimfiles/spell/en.vim"
+Searching for "/usr/local/share/nvim/runtime/spell/en.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/spell/en.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/spell/en.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/spell/en.vim"
+Searching for "/home/admin/.nvim/after/spell/en.vim"
+not found in 'runtimepath': "spell/en.vim"
+finished sourcing $HOME/.nvimrc
+Searching for "plugin/**/*.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/b
+Searching for "/home/admin/.nvim/plugin/**/*.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/plugin/**/*.vim"
+Searching for "/home/admin/.fzf/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.fzf/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.fzf/plugin/fzf.vim"
+Searching for "autoload/fzf.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/
+Searching for "/home/admin/.nvim/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/fzf.vim"
+Searching for "/home/admin/.fzf/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/search/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/autoload/fzf.vim"
+Searching for "/usr/local/share/nvim/vimfiles/autoload/fzf.vim"
+Searching for "/usr/local/share/nvim/runtime/autoload/fzf.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/autoload/fzf.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/autoload/fzf.vim"
+Searching for "/home/admin/.nvim/after/autoload/fzf.vim"
+Searching for "autoload/fzf.vim"
+Searching for "/home/admin/.fzf/autoload/fzf.vim"
+Searching for "../include/autoload/fzf.vim"
+not found in 'runtimepath': "autoload/fzf.vim"
+finished sourcing /home/admin/.fzf/plugin/fzf.vim
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/plugin/**/*.vim"
+Searching for "/home/admin/.vim/plugged/ag/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/ag/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/ag/plugin/ag.vim"
+finished sourcing /home/admin/.vim/plugged/ag/plugin/ag.vim
+Searching for "/home/admin/.vim/plugged/gprof.vim/plugin/**/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/plugin/**/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-fugitive/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/vim-fugitive/plugin/fugitive.vim"
+Searching for "autoload/fugitive.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.
+Searching for "/home/admin/.nvim/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/fugitive.vim"
+Searching for "/home/admin/.fzf/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/search/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/autoload/fugitive.vim"
+Searching for "/usr/local/share/nvim/vimfiles/autoload/fugitive.vim"
+Searching for "/usr/local/share/nvim/runtime/autoload/fugitive.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/autoload/fugitive.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/autoload/fugitive.vim"
+Searching for "/home/admin/.nvim/after/autoload/fugitive.vim"
+Searching for "autoload/fugitive.vim"
+Searching for "/home/admin/.fzf/autoload/fugitive.vim"
+Searching for "../include/autoload/fugitive.vim"
+not found in 'runtimepath': "autoload/fugitive.vim"
+finished sourcing /home/admin/.vim/plugged/vim-fugitive/plugin/fugitive.vim
+Searching for "/home/admin/.vim/plugged/vim-git/plugin/**/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-extradite/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/vim-extradite/plugin/extradite.vim"
+finished sourcing /home/admin/.vim/plugged/vim-extradite/plugin/extradite.vim
+Searching for "/home/admin/.vim/plugged/vim-surround/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-surround/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/vim-surround/plugin/surround.vim"
+finished sourcing /home/admin/.vim/plugged/vim-surround/plugin/surround.vim
+Searching for "/home/admin/.vim/plugged/vim-airline/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/vim-airline/plugin/airline.vim"
+Searching for "autoload/airline.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.n
+Searching for "/home/admin/.nvim/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline.vim"
+Searching for "/home/admin/.fzf/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload)
+chdir(/home/admin/.vim/my-plugs)
+line 49: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline.vim
+continuing in /home/admin/.vim/plugged/vim-airline/plugin/airline.vim
+No matching autocommands
+finished sourcing /home/admin/.vim/plugged/vim-airline/plugin/airline.vim
+Searching for "/home/admin/.vim/plugged/gist-vim/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/gist-vim/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/gist-vim/plugin/gist.vim"
+finished sourcing /home/admin/.vim/plugged/gist-vim/plugin/gist.vim
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/plugin/**/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-multiple-cursors/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/vim-multiple-cursors/plugin/multiple_cursors.vim"
+finished sourcing /home/admin/.vim/plugged/vim-multiple-cursors/plugin/multiple_cursors.vim
+Searching for "/home/admin/.vim/plugged/tcomment_vim/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/tcomment_vim/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.vim/plugged/tcomment_vim/plugin/tcomment.vim"
+finished sourcing /home/admin/.vim/plugged/tcomment_vim/plugin/tcomment.vim
+Searching for "/home/admin/.vim/plugged/webapi-vim/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/search/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/vim-fugitive/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.nvim/bundle/vim-fugitive/plugin/fugitive.vim"
+finished sourcing /home/admin/.nvim/bundle/vim-fugitive/plugin/fugitive.vim
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/vim-interestingwords/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.nvim/bundle/vim-interestingwords/plugin/interestingwords.vim"
+finished sourcing /home/admin/.nvim/bundle/vim-interestingwords/plugin/interestingwords.vim
+Searching for "/home/admin/.nvim/bundle/vim-misc/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/vim-misc/plugin/xolox)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.nvim/bundle/vim-misc/plugin/xolox/misc.vim"
+finished sourcing /home/admin/.nvim/bundle/vim-misc/plugin/xolox/misc.vim
+Searching for "/home/admin/.nvim/bundle/vim-niji/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/vim-niji/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.nvim/bundle/vim-niji/plugin/niji.vim"
+finished sourcing /home/admin/.nvim/bundle/vim-niji/plugin/niji.vim
+Searching for "/home/admin/.nvim/bundle/vim-over/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/vim-over/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.nvim/bundle/vim-over/plugin/over.vim"
+finished sourcing /home/admin/.nvim/bundle/vim-over/plugin/over.vim
+Searching for "/home/admin/.nvim/bundle/vim-plug/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/vim-search-pulse/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.nvim/bundle/vim-search-pulse/plugin/search_pulse.vim"
+finished sourcing /home/admin/.nvim/bundle/vim-search-pulse/plugin/search_pulse.vim
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/vim-syntax-extra/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.nvim/bundle/vim-syntax-extra/plugin/vim-syntax-extra.vim"
+finished sourcing /home/admin/.nvim/bundle/vim-syntax-extra/plugin/vim-syntax-extra.vim
+Searching for "/usr/local/share/nvim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/local/share/nvim/runtime/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/getscriptPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/getscriptPlugin.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/gzip.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/matchparen.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/netrwPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/netrwPlugin.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/python_setup.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/python_setup.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/rrhelper.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/rrhelper.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/spellfile.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tarPlugin.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/tohtml.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tohtml.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/vimballPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/vimballPlugin.vim
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/usr/local/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/zipPlugin.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/plugin/**/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/plugin/**/*.vim"
+Searching for "/home/admin/.nvim/after/plugin/**/*.vim"
+Searching for "plugin/**/*.vim"
+Searching for "/home/admin/.fzf/plugin/**/*.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.fzf/plugin)
+chdir(/home/admin/.vim/my-plugs)
+sourcing "/home/admin/.fzf/plugin/fzf.vim"
+finished sourcing /home/admin/.fzf/plugin/fzf.vim
+Searching for "../include/plugin/**/*.vim"
+Reading viminfo file "/home/admin/.nviminfo" info oldfiles
+"err.vim" 
+"err.vim" 17L, 310C
+Reading viminfo file "/home/admin/.nviminfo" marks
+Reading undo file: /home/admin/.vim/my-plugs/.err.vim.un~
+Executing BufRead Auto commands for "*.vim"
+autocommand setf vim
+
+Executing FileType Auto commands for "*"
+autocommand call s:LoadFTPlugin()
+
+Searching for "ftplugin/vim.vim ftplugin/vim_*.vim ftplugin/vim/*.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.n
+Searching for "/home/admin/.nvim/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.fzf/ftplugin/vim.vim"
+Searching for "/home/admin/.fzf/ftplugin/vim_*.vim"
+Searching for "/home/admin/.fzf/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/ag/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/ag/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/ag/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/search/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/search/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/search/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/ftplugin/vim/*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/ftplugin/vim.vim"
+Searching for "/usr/local/share/nvim/vimfiles/ftplugin/vim_*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/ftplugin/vim/*.vim"
+Searching for "/usr/local/share/nvim/runtime/ftplugin/vim.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/ftplugin)
+chdir(/home/admin/.vim/my-plugs)
+line 17: sourcing "/usr/local/share/nvim/runtime/ftplugin/vim.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin/vim.vim
+continuing in function <SNR>10_LoadFTPlugin
+Searching for "/usr/local/share/nvim/runtime/ftplugin/vim_*.vim"
+Searching for "/usr/local/share/nvim/runtime/ftplugin/vim/*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/ftplugin/vim.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/ftplugin/vim_*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/ftplugin/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/ftplugin/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/ftplugin/vim_*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/ftplugin/vim/*.vim"
+Searching for "/home/admin/.nvim/after/ftplugin/vim.vim"
+Searching for "/home/admin/.nvim/after/ftplugin/vim_*.vim"
+Searching for "/home/admin/.nvim/after/ftplugin/vim/*.vim"
+Searching for "ftplugin/vim.vim"
+Searching for "ftplugin/vim_*.vim"
+Searching for "ftplugin/vim/*.vim"
+Searching for "/home/admin/.fzf/ftplugin/vim.vim"
+Searching for "/home/admin/.fzf/ftplugin/vim_*.vim"
+Searching for "/home/admin/.fzf/ftplugin/vim/*.vim"
+Searching for "../include/ftplugin/vim.vim"
+Searching for "../include/ftplugin/vim_*.vim"
+Searching for "../include/ftplugin/vim/*.vim"
+Executing FileType Auto commands for "*"
+autocommand call s:LoadIndent()
+
+Searching for "indent/vim.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nvim/bu
+Searching for "/home/admin/.nvim/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/indent/vim.vim"
+Searching for "/home/admin/.fzf/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/ag/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/search/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/indent/vim.vim"
+Searching for "/usr/local/share/nvim/vimfiles/indent/vim.vim"
+Searching for "/usr/local/share/nvim/runtime/indent/vim.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/indent)
+chdir(/home/admin/.vim/my-plugs)
+line 14: sourcing "/usr/local/share/nvim/runtime/indent/vim.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent/vim.vim
+continuing in function <SNR>11_LoadIndent
+Searching for "/usr/local/share/nvim/vimfiles/after/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/indent/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/indent/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/indent/vim.vim"
+Searching for "/home/admin/.nvim/after/indent/vim.vim"
+Searching for "indent/vim.vim"
+Searching for "/home/admin/.fzf/indent/vim.vim"
+Searching for "../include/indent/vim.vim"
+Executing FileType Auto commands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Auto commands for "*"
+autocommand call s:SynSet()
+
+Searching for "syntax/vim.vim syntax/vim/*.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/ho
+Searching for "/home/admin/.nvim/syntax/vim.vim"
+Searching for "/home/admin/.nvim/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/vim/*.vim"
+Searching for "/home/admin/.fzf/syntax/vim.vim"
+Searching for "/home/admin/.fzf/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/vim/*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/vim.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/vim/*.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/vim.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 24: sourcing "/usr/local/share/nvim/runtime/syntax/vim.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 655: sourcing "/usr/local/share/nvim/runtime/syntax/python.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/python.vim
+continuing in /usr/local/share/nvim/runtime/syntax/vim.vim
+finished sourcing /usr/local/share/nvim/runtime/syntax/vim.vim
+continuing in function <SNR>13_SynSet
+Searching for "/usr/local/share/nvim/runtime/syntax/vim/*.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/vim.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/vim.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/vim/*.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/vim.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/vim/*.vim"
+Searching for "/home/admin/.nvim/after/syntax/vim.vim"
+Searching for "/home/admin/.nvim/after/syntax/vim/*.vim"
+Searching for "syntax/vim.vim"
+Searching for "syntax/vim/*.vim"
+Searching for "/home/admin/.fzf/syntax/vim.vim"
+Searching for "/home/admin/.fzf/syntax/vim/*.vim"
+Searching for "../include/syntax/vim.vim"
+Searching for "../include/syntax/vim/*.vim"
+Executing FileType Auto commands for "vim"
+autocommand color wombat256
+
+Searching for "colors/wombat256.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.n
+Searching for "/home/admin/.nvim/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/colors/wombat256.vim"
+Searching for "/home/admin/.fzf/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/ag/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/colors/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/colors/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/colors/wombat256.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.nvim/bundle/colorschemes/colors)
+chdir(/home/admin/.vim/my-plugs)
+line 0: sourcing "/home/admin/.nvim/bundle/colorschemes/colors/wombat256.vim"
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 12: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/admin/.vim/bundle/colorschemes/colors/wombat256.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "../include/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/admin/.nv
+Searching for "/home/admin/.nvim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/ag/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/search/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/usr/local/share/nvim/runtime/syntax)
+chdir(/home/admin/.vim/my-plugs)
+line 14: sourcing "/usr/local/share/nvim/runtime/syntax/syncolor.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/syncolor.vim
+continuing in /home/admin/.vim/bundle/colorschemes/colors/wombat256.vim
+Searching for "/usr/local/share/nvim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/syntax/syncolor.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/syntax/syncolor.vim"
+Searching for "/home/admin/.nvim/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim"
+Searching for "/home/admin/.fzf/syntax/syncolor.vim"
+Searching for "../include/syntax/syncolor.vim"
+finished sourcing /home/admin/.nvim/bundle/colorschemes/colors/wombat256.vim
+continuing in FileType Auto commands for "vim"
+Executing FileType Auto commands for "*"
+autocommand call <sid>on_window_changed()
+
+Searching for "autoload/airline/init.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/adm
+Searching for "/home/admin/.nvim/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/init.vim"
+Searching for "/home/admin/.fzf/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/init.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/init.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 4: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/init.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/init.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init
+Searching for "autoload/airline/parts.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/ad
+Searching for "/home/admin/.nvim/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/parts.vim"
+Searching for "/home/admin/.fzf/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/parts.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/parts.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 56: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/parts.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/parts.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#init#bootstrap
+Searching for "autoload/airline/extensions.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/ho
+Searching for "/home/admin/.nvim/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/extensions.vim"
+Searching for "/home/admin/.fzf/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/extensions.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 5: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/extensions.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init
+Searching for "autoload/airline/extensions/quickfix.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim
+Searching for "/home/admin/.nvim/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.fzf/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/extensions/quickfix.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/quickfix.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions)
+chdir(/home/admin/.vim/my-plugs)
+line 4: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/quickfix.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/quickfix.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#extensions#load
+Searching for "autoload/airline/extensions/netrw.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-mi
+Searching for "/home/admin/.nvim/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.fzf/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/extensions/netrw.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/netrw.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions)
+chdir(/home/admin/.vim/my-plugs)
+line 11: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/netrw.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/netrw.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#extensions#load
+Searching for "autoload/airline/extensions/branch.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-m
+Searching for "/home/admin/.nvim/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.fzf/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/extensions/branch.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/branch.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions)
+chdir(/home/admin/.vim/my-plugs)
+line 53: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/branch.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/branch.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#extensions#load
+Searching for "autoload/airline/extensions/whitespace.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/v
+Searching for "/home/admin/.nvim/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.fzf/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/extensions/whitespace.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/whitespace.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions)
+chdir(/home/admin/.vim/my-plugs)
+line 75: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/whitespace.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/whitespace.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#extensions#load
+Searching for "autoload/airline/section.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/
+Searching for "/home/admin/.nvim/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/section.vim"
+Searching for "/home/admin/.fzf/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/section.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/section.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 3: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/section.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/section.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#init#sections
+Searching for "autoload/airline/highlighter.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/h
+Searching for "/home/admin/.nvim/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.fzf/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/highlighter.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/highlighter.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 2: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/highlighter.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/highlighter.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#init#sections..airline#section#create_left..<SNR>56_create..<SNR>56_wrap_accent
+Searching for "autoload/airline/themes/wombat256.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-mi
+Searching for "/home/admin/.nvim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.fzf/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/gist-vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/kib_darktango.vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-multiple-cursors/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/tcomment_vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/webapi-vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/colorschemes/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/haskell-vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/inkpot/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/moonscript-vim/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/search/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-fugitive/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-interestingwords/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-misc/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-niji/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-over/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-plug/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-search-pulse/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/autoload/airline/themes/wombat256.vim"
+Searching for "/usr/local/share/nvim/vimfiles/autoload/airline/themes/wombat256.vim"
+Searching for "/usr/local/share/nvim/runtime/autoload/airline/themes/wombat256.vim"
+Searching for "/usr/local/share/nvim/vimfiles/after/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/vim-syntax-extra/after/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/bundle/haskellConceal/after/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/after/autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.nvim/after/autoload/airline/themes/wombat256.vim"
+Searching for "autoload/airline/themes/wombat256.vim"
+Searching for "/home/admin/.fzf/autoload/airline/themes/wombat256.vim"
+Searching for "../include/autoload/airline/themes/wombat256.vim"
+not found in 'runtimepath': "autoload/airline/themes/wombat256.vim"
+Searching for "autoload/airline/themes/wombat.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,
+Searching for "/home/admin/.nvim/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.fzf/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/themes/wombat.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/themes/wombat.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline/themes)
+chdir(/home/admin/.vim/my-plugs)
+line 2: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/themes/wombat.vim"
+Searching for "autoload/airline/themes.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/a
+Searching for "/home/admin/.nvim/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/themes.vim"
+Searching for "/home/admin/.fzf/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/themes.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/themes.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 44: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/themes.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/themes.vim
+continuing in /home/admin/.vim/plugged/vim-airline/autoload/airline/themes/wombat.vim
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/themes/wombat.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#switch_matching_theme..airline#switch_theme
+Searching for "autoload/airline/builder.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/
+Searching for "/home/admin/.nvim/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/builder.vim"
+Searching for "/home/admin/.fzf/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/builder.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/builder.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 1: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/builder.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/builder.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#switch_matching_theme..airline#switch_theme..airline#update_statusline..<SNR>23_invoke_funcrefs
+Searching for "autoload/airline/util.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-misc,/home/adm
+Searching for "/home/admin/.nvim/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/util.vim"
+Searching for "/home/admin/.fzf/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/util.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/util.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline)
+chdir(/home/admin/.vim/my-plugs)
+line 2: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/util.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/util.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#switch_matching_theme..airline#switch_theme..airline#update_statusline..<SNR>23_invoke_funcrefs
+Searching for "autoload/airline/extensions/default.vim" in "/home/admin/.nvim,/home/admin/.vim/plugged/seoul256.vim/,/home/admin/.fzf/,/home/admin/.vim/plugged/vim-colors-solarized/,/home/admin/.vim/plugged/ag/,/home/admin/.vim/plugged/gprof.vim/,/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/,/home/admin/.vim/plugged/vim-fugitive/,/home/admin/.vim/plugged/vim-git/,/home/admin/.vim/plugged/vim-extradite/,/home/admin/.vim/plugged/vim-surround/,/home/admin/.vim/plugged/vim-airline/,/home/admin/.vim/plugged/gist-vim/,/home/admin/.vim/plugged/kib_darktango.vim/,/home/admin/.vim/plugged/vim-multiple-cursors/,/home/admin/.vim/plugged/tcomment_vim/,/home/admin/.vim/plugged/webapi-vim/,/home/admin/.nvim/bundle/colorschemes,/home/admin/.nvim/bundle/haskell-vim,/home/admin/.nvim/bundle/haskellConceal,/home/admin/.nvim/bundle/inkpot,/home/admin/.nvim/bundle/moonscript-vim,/home/admin/.nvim/bundle/search,/home/admin/.nvim/bundle/vim-fugitive,/home/admin/.nvim/bundle/vim-interestingwords,/home/admin/.nvim/bundle/vim-
+Searching for "/home/admin/.nvim/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/seoul256.vim/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.fzf/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/vim-colors-solarized/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/ag/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/gprof.vim/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/vim-cpp-enhanced-highlight/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/vim-fugitive/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/vim-git/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/vim-extradite/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/vim-surround/autoload/airline/extensions/default.vim"
+Searching for "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/default.vim"
+chdir(/home/admin/.vim/my-plugs)
+chdir(/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions)
+chdir(/home/admin/.vim/my-plugs)
+line 2: sourcing "/home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/default.vim"
+finished sourcing /home/admin/.vim/plugged/vim-airline/autoload/airline/extensions/default.vim
+continuing in function <SNR>22_on_window_changed..<SNR>22_init..airline#switch_matching_theme..airline#switch_theme..airline#update_statusline..<SNR>23_invoke_funcrefs..airline#util#exec_funcrefs
+Executing BufRead Auto commands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufRead Auto commands for "*"
+autocommand if getline(1) =~ '^\(commit\|tree\|object\) \x\{40\}\>\|^tag \S\+$' |   set ft=git | endif
+
+autocommand if getline(1) =~ '^From \x\{40\} Mon Sep 17 00:00:00 2001$' |   set filetype=gitsendemail | endif
+
+Executing BufRead Auto commands for "*"
+autocommand call s:DetectMoon()
+
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf conf | endif
+
+Executing BufRead Auto commands for "*"
+autocommand if line("'\"") > 0 && line("'\"") <= line("$") |   exe "normal! g`\"" | endif
+
+Executing BufRead Auto commands for "*"
+autocommand call fugitive#detect(expand('<amatch>:p'))
+
+No matching autocommands
+Executing User Auto commands for "Fugitive"
+autocommand call s:define_commands()
+
+Executing User Auto commands for "Fugitive"
+autocommand if s:buffer().commit() =~# '^0\=$' | exe "command! -buffer -bar -bang -nargs=1 -complete=customlist,s:MoveComplete Gmove :execute s:Move(<bang>0,<q-args>)" | exe "command! -buffer -bar -bang Gremove :execute s:Remove(<bang>0)" | endif
+
+Executing User Auto commands for "Fugitive"
+autocommand if s:buffer().type('file', 'blob') | exe "command! -buffer -bar -bang -range=0 -nargs=* Gblame :execute s:Blame(<bang>0,<line1>,<line2>,<count>,[<f-args>])" | endif
+
+Executing User Auto commands for "Fugitive"
+autocommand if &filetype =~# '^git\%(commit\)\=$' && &foldtext ==# 'foldtext()' |    set foldtext=fugitive#foldtext() | endif
+
+Executing User Auto commands for "Fugitive"
+autocommand command! -buffer -bang Extradite :execute s:Extradite(<bang>0)
+
+Executing BufRead Auto commands for "*"
+autocommand if has_key(s:temp_files,tolower(expand('<afile>:p'))) |   let b:git_dir = s:temp_files[tolower(expand('<afile>:p'))].dir |   let b:git_type = 'temp' |   let b:git_args = s:temp_files[tolower(expand('<afile>:p'))].args |   call fugitive#detect(expand('<afile>:p')) |   setlocal bufhidden=delete nobuflisted |   nnoremap <buffer> <silent> q    :<C-U>bdelete<CR>| endif
+
+Executing BufRead Auto commands for "*"
+autocommand call s:load()
+
+Executing BufWinEnter Auto commands for "*"
+autocommand if s:can_diffoff(+expand('<abuf>')) && s:diff_window_count() == 1 |   call s:diffoff() | endif
+
+Executing BufWinEnter Auto commands for "*"
+autocommand call <sid>on_window_changed()
+
+Executing BufEnter Auto commands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Auto commands for "*"
+autocommand if expand('<amatch>')==''|call fugitive#detect(getcwd())|endif
+
+Executing VimEnter Auto commands for "*"
+autocommand call <sid>on_window_changed()
+
+Executing VimEnter Auto commands for "*"
+autocommand sil call s:VimEnter(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Auto commands for "*"
+autocommand call <sid>sync_active_winnr()
+
+
+sourcing "err.vim"
+finished sourcing err.vim-- INSERT --
+Executing CursorMovedI Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing TextChangedI Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands for "*"
+autocommand call Do()
+
+Executing InsertCharPre Auto commands fo
